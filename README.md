@@ -1,6 +1,6 @@
 # Emad Afandi Coffee — Website Redesign
 
-A modern ** remake and full redesign ** of the website for Emad Afandi Coffee, a well-known coffee brand in Egypt.  
+A modern **remake and full redesign** of the website for Emad Afandi Coffee, a well-known coffee brand in Egypt.  
 
 This project reimagines the brand’s digital presence with a **cleaner interface, improved navigation, bilingual accessibility, and immersive animations** to create a more engaging experience for users exploring the brand and its products.
 
